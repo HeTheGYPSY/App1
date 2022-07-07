@@ -1,6 +1,5 @@
 package mobile.V12.com
 
-import android.R
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 
